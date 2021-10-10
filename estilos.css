@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: #fff;
+}
+
+#titulo{
+    margin-top: 10px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+    width: 100%;
+    height: 80px;
+    padding-top: 15px;
+}
+
+#contenedor{
+    text-align: justify;
+    margin: 15px;
+}
+
+.accordion-button{
+    background-color: rgb(161, 190, 214);
+    color: #000;
+    font-weight: bold;
+}
+
+code{
+    color: rgb(65, 133, 189);
+}
