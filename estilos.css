@@ -5,6 +5,7 @@
 }
 
 #titulo{
+    display: flex;
     margin-top: 10px;
     text-align: center;
     align-items: center;
@@ -29,4 +30,9 @@
 
 code{
     color: rgb(65, 133, 189);
+}
+
+span{
+    font-size: 25px;
+    margin-left: 5px;
 }
